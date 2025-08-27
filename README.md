@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeclimeric&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeclimeric&cache_seconds=1800)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeclimeric&count_private=true)
+
+<!-- 
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=你的wakatime用户名)
+
+-->
+
+
